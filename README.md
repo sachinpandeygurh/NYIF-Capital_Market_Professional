@@ -25,7 +25,13 @@ For more information on Abhiyantriki Technology, please visit their website at: 
 
 Do not install the project all right reseved National Stock Exchange of India Ltd. this is only for information purposes.
 
+## Key Features
 
+- Modern and user-friendly design
+- Responsive layout for optimal viewing on all devices
+- Developed using HTML, CSS, and JavaScript
+- Completed under the supervision of Abhiyantriki Technology
+- QA testing by Angesh Mishra
 
 ## Description
 
