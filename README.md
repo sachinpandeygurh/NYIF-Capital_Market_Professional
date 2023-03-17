@@ -1,41 +1,48 @@
-# MedAlert
+# Project Name
 
-MedAlert is a premier provider of ambulance services, offering a wide range of emergency medical transportation options to meet the needs of patients and healthcare providers. Our services are designed to provide quick, efficient and safe transportation to those in need of medical attention. 
+The project is a website created using HTML, CSS, and JavaScript. The website is designed for CAPITAL MARKET PROFESSIONAL CERTIFICATE.
 
-## Features
+## Project Completion
 
-- 24/7 availability
-- Fleet of well-equipped ambulances
-- Trained and experienced medical staff
-- Advanced life support equipment 
-- Comfortable and spacious vehicles
-- Competitive pricing
+The project was completed under the supervision of Abhiyantriki Technology in Bhopal, Madhya Pradesh. 
 
-## Services
+### Team Members
 
-- Basic Life Support Ambulance
-- Advanced Life Support Ambulance
-- Bariatric Ambulance
-- Pediatric Ambulance
-- Non-Emergency Medical Transportation
-- Inter-Facility Transfers
-- Stretcher Transport Services
+- Developer: Sachin Pandey 
+- Company: [Abhiyantriki Technology](https://www.abhiyantrikitech.com) , Bhopal MP
+- QA Tester: [Angesh Mishra](https://github.com/angesh27)
+- GitHub URL: https://github.com/angesh27
 
-## Why Choose MedAlert?
+- With our more team members of Abhiyantriki Technology and NSE Academy
+- Company URL: https://www.abhiyantrikitech.com
+- Live project url : https://www.nseindia.com/learn/certification-in-ifrs-e-learning
 
-At MedAlert, patient care is our top priority. Our team of highly trained and experienced medical professionals are dedicated to providing the best possible care to each and every patient. We use only the latest and most advanced medical equipment to ensure a safe and comfortable transport experience.
+### Abhiyantriki Technology
 
-In addition to our commitment to patient care, MedAlert is also known for our competitive pricing and 24/7 availability. We understand the urgency of medical emergencies and strive to provide prompt and reliable service to all of our patients.
+For more information on Abhiyantriki Technology, please visit their website at: https://www.abhiyantrikitech.com
 
-## Screenshots
+## Installation
 
-![MedAlert Ambulance Fleet](screenshots/pc.png)
+Do not install the project all right reseved National Stock Exchange of India Ltd. this is only for information purposes.
 
-![MedAlert Advanced Life Support Equipment](screenshots/mobilephone.png)
 
-![MedAlert Patient Care](screenshots/update.png)
 
-## Contact Us
+## Description
 
-For more information about MedAlert and our ambulance services, please visit our website at https://sachin12031999.github.io/medalert_v3/  
+This project is a dynamic and interactive web application that has been developed utilizing cutting-edge web development technologies such as HTML, CSS, and JavaScript. It is designed with a user-centric approach to offer an intuitive and immersive experience to the end-users.
+
+The web application has been developed under the aegis of Abhiyantriki Technology, a premier technology solutions provider based in Bhopal, MP. The team has meticulously crafted the user interface and user experience design, ensuring that it is both aesthetically pleasing and highly functional.
+
+The quality assurance of the project has been overseen by the proficient expertise of Angesh Mishra, who has worked diligently to ensure that the project is bug-free, efficient, and optimized to deliver a seamless user experience.
+
+Overall, this project exemplifies the commitment of Abhiyantriki Technology to provide innovative, state-of-the-art technology solutions that meet the evolving needs of its customers.
+
+## Author
+
+- Sachin 
+- Another github: https://github.com/aytsachin
+
+## Contributing
+
+Contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
