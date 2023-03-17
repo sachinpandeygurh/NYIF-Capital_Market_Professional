@@ -139,20 +139,31 @@ header nav {
     margin-left: 1rem !important;
 }
 
-.brochure_btn2 a {
+.brochure_btn2 a , .nasecademy{
     
-    background-color: #fff !important;
+    /* background-color: #fff ; */
+    background: #f1b51c !important;
     color: #231F20 ;
     transition: 0.5s ease-in-out;
+    font-weight: 800;
+
 }
 
-.brochure_btn2 a:hover {
+.brochure_btn2 a:hover{
         border: 1px solid var(--Black) !important;
         color: var(--Black) !important;
         background-color: #f1b51c !important;
         font-weight: 800;
 }
-
+.nasecademy a{
+    transition: color 1s;
+}
+.nasecademy:hover a {
+    /* border: 1px solid var(--Black) !important; */
+    color: var(--Black) !important;
+    background-color: #f1b51c !important;
+    font-weight: 800;
+}
 
 .navbar-light .navbar-toggler {
     border: none !important;
@@ -1273,9 +1284,11 @@ section.dicussion-image {
 /* COACHE-PROGRAM */
 
 
-.coache-image img {
-    height: 100%;
-    width: 100%;
+.coache-image {
+    border-radius: 4em;
+
+    /* height: 100%;
+    width: 100%; */
 }
 .border-line{
     border: 1px solid var(--Black);
@@ -1401,4 +1414,12 @@ section.dicussion-image {
 
 .schlorshipfont{
     font-size: 1.25rem !important;
+}
+.nasecademy:hover{
+    border: 1px solid var(--Black) !important;
+    color:#231F20 !important;
+    background-color: #f1b51c !important;
+}
+.brochureBtn{
+    background: #f1b51c !important;
 }
