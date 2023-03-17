@@ -46,11 +46,7 @@ Overall, this project exemplifies the commitment of Abhiyantriki Technology to p
 
 ## Screenshots
 
-![pc image](screenshots/pc.jpg)
-
-![mobile image](screenshots/mobilephone.jpg)
-
-![tablate image](screenshots/tablate.jpg)
+![pc image](screenshots/pc.jpg) [mobile image](screenshots/mobilephone.jpg) [tablate image](screenshots/tablate.jpg)
 
 ## Author
 
