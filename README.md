@@ -44,6 +44,14 @@ The quality assurance of the project has been overseen by the proficient experti
 
 Overall, this project exemplifies the commitment of Abhiyantriki Technology to provide innovative, state-of-the-art technology solutions that meet the evolving needs of its customers.
 
+## Screenshots
+
+![pc image](screenshots/pc.png)
+
+![mobile image](screenshots/mobilephone.jpg)
+
+![tablate image](screenshots/tablate.jpg)
+
 ## Author
 
 - Sachin 
