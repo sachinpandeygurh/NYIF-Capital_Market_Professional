@@ -1,4 +1,4 @@
-# Project Name
+# NSE INDIA CAPITAL MARKET PROFESSIONAL CERTIFICATE COURSE
 
 The project is a website created using HTML, CSS, and JavaScript. The website is designed for CAPITAL MARKET PROFESSIONAL CERTIFICATE.
 
@@ -28,7 +28,7 @@ Do not install the project all right reseved National Stock Exchange of India Lt
 
 ## Key Features
 
-- Modern and user-friendly design
+- Modern and user-friendly design 
 - Responsive layout for optimal viewing on all devices
 - Developed using HTML, CSS, and JavaScript
 - Completed under the supervision of Abhiyantriki Technology
