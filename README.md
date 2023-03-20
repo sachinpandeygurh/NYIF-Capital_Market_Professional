@@ -16,7 +16,7 @@ The project was completed under the supervision of Abhiyantriki Technology in Bh
 - With our more team members of Abhiyantriki Technology and NSE Academy
 - Company URL: https://www.abhiyantrikitech.com
 - Github gnerated page url: https://sachin12031999.github.io/NYIF-Capital_Market_Professional/
-- Live project url : https://www.ncfm-india.com/ORE
+- Live project url : https://www.ncfm-india.com/ORE/Think_like_a_CEO/
 
 ### Abhiyantriki Technology
 
