@@ -8,10 +8,11 @@ The project was completed under the supervision of Abhiyantriki Technology in Bh
 
 ### Team Members
 
-- Developer: Sachin Pandey 
+- Developer:  Gourav Mahobe
 - Company: [Abhiyantriki Technology](https://www.abhiyantrikitech.com) , Bhopal MP
 - QA Tester: [Angesh Mishra](https://github.com/angesh27)
 - GitHub URL: https://github.com/angesh27
+- Designer: Sachin Pandey
 
 - With our more team members of Abhiyantriki Technology and NSE Academy
 - Company URL: https://www.abhiyantrikitech.com
